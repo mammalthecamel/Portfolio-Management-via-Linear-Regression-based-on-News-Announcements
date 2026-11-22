@@ -5,11 +5,11 @@ Code for project 1A
 Files included:
 
 Code files:
-daniel_testing.R — main event-study tests
+daniel_testing_clean.R — main event-study tests
 portfolio.py — the backtest
 data_loader.py — price-loading pipeline
-Group Project 1 - CherryR.R — Cherry's macro tests (6.1), part of the analysis
-rulebook.txt — the plain-English rules for labelling
+Group Project 1 - Hypothesis testing_final.R — Cherry's macro tests (6.1), part of the analysis
+Announcement Classification Rulebook.pdf — the plain-English rules for labelling
 
 Data files:
 News_all10_clean.csv — labelled news + rule_applied column
